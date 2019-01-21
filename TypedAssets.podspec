@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.source           = { :git => "https://github.com/jayeshk/TypedAssets.git", :tag => s.version.to_s }
   s.ios.deployment_target = '10.0'
   s.requires_arc = true
-  s.source_files = 'TypedAssets/*.{swift}'
+  s.source_files = 'Source/*.{swift}'
   s.frameworks = 'UIKit'
   s.swift_version = "4.2"
 end
