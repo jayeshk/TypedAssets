@@ -1,5 +1,8 @@
 ![CocoaPods Compatible](https://img.shields.io/cocoapods/v/TypedAssets.svg?style=flat)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-red.svg?style=flat)](https://github.com/Carthage/Carthage)
+[![Build Status](https://travis-ci.com/jayeshk/TypedAssets.svg?branch=master)](https://travis-ci.com/jayeshk/TypedAssets)
+[![Platform](https://img.shields.io/cocoapods/p/TypedAssets.svg?style=flat)](https://github.com/jayeshk/TypedAssets)
+[![Open Source Helpers](https://www.codetriage.com/jayeshk/typedassets/badges/users.svg)](https://www.codetriage.com/jayeshk/typedassets)
 
 # TypedAssets
 
