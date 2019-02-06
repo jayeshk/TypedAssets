@@ -1,3 +1,6 @@
+![CocoaPods Compatible](https://img.shields.io/cocoapods/v/TypedAssets.svg?style=flat)
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-red.svg?style=flat)](https://github.com/Carthage/Carthage)
+
 # TypedAssets
 
 A large set of named colors that can be used instead for creating colors via hex or floats, It containts list pf common colors can be written and read more easily.
